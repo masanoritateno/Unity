@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B9B005A8-4FA3-DA21-0E44-9CC2B909BB12}") = "ブロック崩し unity5.3 tateno2", "Assembly-CSharp.csproj", "{9403B99B-8380-1DA8-9B86-4028D549F7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9403B99B-8380-1DA8-9B86-4028D549F7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9403B99B-8380-1DA8-9B86-4028D549F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9403B99B-8380-1DA8-9B86-4028D549F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9403B99B-8380-1DA8-9B86-4028D549F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
